@@ -1,4 +1,8 @@
-# title(){return this.options.title||this.options.name}
+# Blackjack Game 
+
+This code is the one you need to create a basic blackjack game
+This project was made with the help of scrimba to create the js, html and css. 
+
 
 ## Supporting Scrimba
 
